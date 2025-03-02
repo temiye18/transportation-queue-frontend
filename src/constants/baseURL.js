@@ -1,2 +1,2 @@
 export const base_url =
-  "https://transportation-queue-backend-production.up.railway.app";
+  "https://transportation-queue-urj1.onrender.com";
